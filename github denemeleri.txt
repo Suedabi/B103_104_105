@@ -8,3 +8,4 @@ ikinci gün sueda Sueda branch'i
 MASTER BRANCH'I DENEME
 git hub deneme ucuncu gun
 ucuncu gun
+ucuncu gun ikinci deneme
